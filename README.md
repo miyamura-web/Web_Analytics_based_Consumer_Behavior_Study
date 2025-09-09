@@ -1,1 +1,1 @@
-# Web_Analytics_based_Consumer_Behavior_Study
+# Web Analytics based Consumer Behavior Study
