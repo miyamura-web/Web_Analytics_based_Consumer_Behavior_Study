@@ -1,1 +1,1 @@
-# Web Analytics based Consumer Behavior Study
+# Analyzing Consumer Behavior through Web Analytics
