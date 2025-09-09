@@ -1,0 +1,51 @@
+customer_id,product_category,product_name,rating,review_text,purchase_date,sentiment_label,age_group,gender
+1,Electronics,Smartphone X1,5,Absolutely love this phone! The camera quality is outstanding and battery life is amazing. Best purchase I've made this year.,15-03-2024,positive,25-34,Female
+2,Clothing,Designer Jacket,2,Very disappointed with the quality. The material feels cheap and the sizing is completely off. Would not recommend.,18-03-2024,negative,35-44,Male
+3,Home & Garden,Coffee Maker Pro,4,Good coffee maker overall. Makes great coffee but the setup process was a bit confusing. Worth the price though.,20-03-2024,positive,45-54,Female
+4,Electronics,Wireless Headphones,1,Terrible sound quality and they broke after just one week. Complete waste of money. Customer service was unhelpful.,22-03-2024,negative,18-24,Male
+5,Beauty,Anti-Aging Serum,5,This serum has transformed my skin! I can see visible results after just 2 weeks. Highly recommend to anyone looking for quality skincare.,25-03-2024,positive,35-44,Female
+6,Books,Self-Help Guide,3,The book has some good points but it's quite repetitive. Not bad but not exceptional either. Average read.,28-03-2024,neutral,25-34,Male
+7,Food & Beverage,Organic Tea Blend,4,Lovely tea with a great aroma. The taste is smooth and relaxing. Only wish it came in larger packages.,01-04-2024,positive,55-64,Female
+8,Electronics,Smart TV 55-inch,5,Incredible picture quality and smart features work flawlessly. Easy setup and great value for money. Very satisfied!,03-04-2024,positive,35-44,Male
+9,Sports & Outdoors,Running Shoes,2,These shoes are uncomfortable and caused blisters during my first run. Poor cushioning and not worth the high price.,05-04-2024,negative,25-34,Female
+10,Home & Kitchen,Air Fryer Deluxe,4,Works well for most foods. Crispy results and healthier cooking. The only downside is it's quite noisy during operation.,08-04-2024,positive,45-54,Male
+11,Automotive,Car Phone Mount,3,Does the job but not very sturdy. Phone occasionally falls off during sharp turns. Okay for the price I guess.,10-04-2024,neutral,35-44,Male
+12,Pet Supplies,Dog Training Treats,5,My dog absolutely loves these treats! Great for training sessions and they're made with natural ingredients. Will definitely buy again.,12-04-2024,positive,25-34,Female
+13,Toys & Games,Board Game Classic,4,Fun game for family nights. Good quality pieces and clear instructions. Kids and adults both enjoy it.,15-04-2024,positive,35-44,Female
+14,Electronics,Tablet Pro,1,Screen cracked within the first month despite careful handling. Poor build quality for such an expensive device. Very disappointed.,18-04-2024,negative,55-64,Male
+15,Health & Wellness,Vitamin Supplements,3,Haven't noticed significant changes yet but it's only been a month. Will continue taking and see if there are improvements.,20-04-2024,neutral,45-54,Female
+16,Electronics,Gaming Console,5,Best gaming experience ever! Fast loading times and incredible graphics. The controller feels premium and responsive.,22-04-2024,positive,18-24,Male
+17,Fashion,Women's Boots,1,Worst purchase ever. The heel broke on the second wear and they're incredibly uncomfortable. Complete waste of money.,24-04-2024,negative,25-34,Female
+18,Home Decor,Wall Art Set,4,Beautiful artwork that really brightens up the living room. Good quality prints but the frames could be sturdier.,26-04-2024,positive,35-44,Female
+19,Electronics,Bluetooth Speaker,2,Sound quality is mediocre and the battery dies quickly. Expected much more for the price point.,28-04-2024,negative,25-34,Male
+20,Kitchen,Knife Set,5,Exceptional sharpness and balance. These knives have transformed my cooking experience. Professional quality at home.,30-04-2024,positive,45-54,Female
+21,Baby Products,Stroller,3,Does what it's supposed to do but it's quite heavy and bulky. Storage is decent but maneuverability could be better.,02-05-2024,neutral,25-34,Female
+22,Electronics,Smartwatch,4,Great fitness tracking features and long battery life. The interface is intuitive though the band gets uncomfortable during long wear.,04-05-2024,positive,35-44,Male
+23,Garden,Plant Fertilizer,5,Amazing results! My plants have never looked healthier. Easy to use and completely organic. Highly recommend to all gardeners.,06-05-2024,positive,55-64,Female
+24,Automotive,Car Wax,2,Difficult to apply and doesn't last very long. My car looked good for about a week before needing another application.,08-05-2024,negative,35-44,Male
+25,Books,Mystery Novel,4,Engaging plot with well-developed characters. Kept me guessing until the end though some parts dragged a bit.,10-05-2024,positive,45-54,Female
+26,Sports,Yoga Mat,3,Adequate for basic yoga but not the best grip during intense sessions. Price is reasonable for what you get.,12-05-2024,neutral,25-34,Female
+27,Electronics,Laptop Stand,4,Sturdy construction and perfect height adjustment. Really helps with posture during long work sessions. Good value.,14-05-2024,positive,35-44,Male
+28,Beauty,Moisturizer,1,Caused severe breakouts and irritation. Had to stop using after three days. Money down the drain.,16-05-2024,negative,18-24,Female
+29,Food,Protein Powder,5,Best tasting protein powder I've tried! Mixes well and no artificial aftertaste. Great for post-workout recovery.,18-05-2024,positive,25-34,Male
+30,Home,Vacuum Cleaner,2,Constantly clogs and loses suction power. The attachments fall off easily. Very frustrating to use.,20-05-2024,negative,45-54,Female
+31,Clothing,Casual Shirt,4,Comfortable fabric and good fit. The color is exactly as shown online. Washes well without shrinking.,22-05-2024,positive,35-44,Male
+32,Electronics,Webcam,3,Video quality is okay for video calls but not great in low light. Audio pickup is decent. Average product overall.,24-05-2024,neutral,25-34,Male
+33,Pet Supplies,Cat Litter,5,Excellent odor control and clumps perfectly. My cats adapted quickly and there's no tracking. Will definitely repurchase.,26-05-2024,positive,35-44,Female
+34,Tools,Drill Set,1,Multiple bits broke within the first week of light use. The drill itself feels cheap and underpowered. Very disappointed.,28-05-2024,negative,45-54,Male
+35,Health,Sleep Aid,3,Helps me fall asleep but I wake up feeling groggy. Not sure if the trade-off is worth it. Still testing.,30-05-2024,neutral,35-44,Female
+36,Electronics,Tablet Case,4,Great protection and the stand feature is very convenient. Good quality materials but the price is a bit high.,01-06-2024,positive,25-34,Female
+37,Fashion,Designer Sunglasses,2,Frame feels flimsy and the lenses scratch easily. Not worth the premium price tag at all.,03-06-2024,negative,35-44,Male
+38,Kitchen,Blender,5,Powerful motor that handles everything I throw at it. Easy to clean and the preset programs work perfectly.,05-06-2024,positive,45-54,Female
+39,Sports,Tennis Racket,4,Good balance and power for intermediate players. The grip is comfortable though the strings could be better quality.,07-06-2024,positive,25-34,Male
+40,Home,Air Purifier,3,Works as advertised but is quite noisy on higher settings. The filter replacement cost is reasonable.,09-06-2024,neutral,55-64,Female
+41,Electronics,Phone Charger,1,Stopped working after two weeks. Poor build quality and very slow charging speed even when it worked.,11-06-2024,negative,18-24,Male
+42,Beauty,Hair Styling Tool,5,Incredible results! My hair looks salon-quality every time I use this. Easy to use with great temperature control.,13-06-2024,positive,25-34,Female
+43,Books,Cookbook,4,Great recipes with clear instructions. The photos are beautiful and inspiring. Some ingredients are hard to find locally.,15-06-2024,positive,35-44,Female
+44,Garden,Watering System,2,Installation was complicated and the system leaks at multiple connection points. Not reliable for daily use.,17-06-2024,negative,45-54,Male
+45,Electronics,Computer Mouse,3,Basic functionality works fine but the ergonomics could be better. Decent for the price but nothing special.,19-06-2024,neutral,35-44,Male
+46,Toys,Remote Control Car,5,Kids absolutely love it! Durable construction and impressive speed. Battery life is excellent for extended play sessions.,21-06-2024,positive,35-44,Male
+47,Clothing,Athletic Wear,1,Terrible quality fabric that pills after one wash. The fit is completely wrong despite ordering correct size.,23-06-2024,negative,25-34,Female
+48,Home,Storage Containers,4,Airtight seal works great and they stack nicely. Clear design makes it easy to see contents. Good value for organization.,25-06-2024,positive,45-54,Female
+49,Electronics,Keyboard,2,Keys stick frequently and the backlight is uneven. Expected much better quality for a gaming keyboard.,27-06-2024,negative,18-24,Male
+50,Health,Fitness Tracker,3,Accurate step counting but the heart rate monitor seems inconsistent. App interface is okay but could be more intuitive.,29-06-2024,neutral,25-34,Female
