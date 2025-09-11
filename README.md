@@ -18,7 +18,7 @@ An interactive Power BI dashboard visualizes key insights, making it easy to tra
 - **Python (Optional)** – For Sentiment Analysis and also for data pre-processing and cleaning before importing into Power BI.
 ---
 
-## 📁 Project Structure
+### 📁 Project Structure
 
 ```
 ├── data/
