@@ -1,4 +1,4 @@
-# Analyzing Consumer Behavior through Web Analytics
+# Analyzing Consumer Behavior through Web Analytics (In Process)
 
 ## 📊 Project Overview :
 In the era of digital commerce, understanding consumer behavior is critical for optimizing user experience and driving sales. This project focuses on analyzing consumer interactions with the Myntra e-commerce platform using Web Analytics Data combined with Sentiment Analysis on product-related consumer feedback.
@@ -11,6 +11,14 @@ The project involves two main components:
 • **Sentiment Analysis** – Applying natural language processing techniques on customer reviews to assess the sentiment (positive, neutral, negative) associated with different products, identifying consumer perceptions and their potential influence on purchasing behavior.
 
 An interactive Power BI dashboard visualizes key insights, making it easy to track consumer engagement patterns, identify bottlenecks in the user journey, and highlight sentiment trends. The project helps businesses like Myntra make data-driven decisions to enhance user engagement, improve product offerings, and ultimately increase conversion rates.
+
+---
+### 🎯 Objectives 
+- Analyze user behavior across different age groups.
+- Study the relationship between pages visited, session duration, and conversion rates.
+- Visualize traffic sources and their impact on user engagement.
+- Identify high bounce rate pages and potential areas for improvement.
+- Explore consumer personality patterns based on web analytics.
 
 ---
 ### ⚙️Tools Used :
@@ -30,3 +38,4 @@ An interactive Power BI dashboard visualizes key insights, making it easy to tra
 │   └── Sentiment_Analysis.ipynb  # Sentiment analysis using python file
 ├── README.md
 ```
+
