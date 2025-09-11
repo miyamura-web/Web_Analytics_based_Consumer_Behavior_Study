@@ -12,7 +12,21 @@ The project involves two main components:
 
 An interactive Power BI dashboard visualizes key insights, making it easy to track consumer engagement patterns, identify bottlenecks in the user journey, and highlight sentiment trends. The project helps businesses like Myntra make data-driven decisions to enhance user engagement, improve product offerings, and ultimately increase conversion rates.
 
-
+---
 ### ⚙️Tools Used :
 - **Power BI** – For interactive dashboard visualization.
 - **Python (Optional)** – For Sentiment Analysis and also for data pre-processing and cleaning before importing into Power BI.
+---
+
+## 📁 Project Structure
+
+```
+├── data/
+│   ├── Google_analytics_data.csv
+│   └── Sentiment Analysis Dataset.csv    # Dataset used
+├── dashboard/
+│   └── Web_Analytics_Dashboard.pbix  # Power BI Dashboard file
+├── pythoon file/
+│   └── Sentiment_Analysis.ipynb  # Sentiment analysis using python file
+├── README.md
+```
