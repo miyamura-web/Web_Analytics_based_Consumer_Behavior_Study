@@ -11,3 +11,8 @@ The project involves two main components:
 • **Sentiment Analysis** – Applying natural language processing techniques on customer reviews to assess the sentiment (positive, neutral, negative) associated with different products, identifying consumer perceptions and their potential influence on purchasing behavior.
 
 An interactive Power BI dashboard visualizes key insights, making it easy to track consumer engagement patterns, identify bottlenecks in the user journey, and highlight sentiment trends. The project helps businesses like Myntra make data-driven decisions to enhance user engagement, improve product offerings, and ultimately increase conversion rates.
+
+
+## Tools Used :
+- **Power BI** – For interactive dashboard visualization.
+- **Python (Optional)** – For Sentiment Analysis and also for data pre-processing and cleaning before importing into Power BI.
