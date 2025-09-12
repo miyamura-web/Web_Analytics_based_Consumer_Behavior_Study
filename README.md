@@ -39,7 +39,7 @@ An interactive Power BI dashboard visualizes key insights, making it easy to tra
 ├── README.md
 ```
 
-## 📊 Dashboard Highlights :
+### 📊 Dashboard Highlights -
 
 - Total Pages Visited
 - Average Session Duration
@@ -53,7 +53,7 @@ An interactive Power BI dashboard visualizes key insights, making it easy to tra
 
 ---
 
-## 📊 Sentiment Analysis Summary :
+### 📊 Sentiment Analysis Summary -
 I analyzed product-related consumer feedback using sentiment analysis libraries like **VADER SentimentIntensityAnalyzer**.  
 Each review was scored for:  
 - **Negative Sentiment Score**   - Could indicate high neuroticism: sensitive, critical, easily dissatisfied.
