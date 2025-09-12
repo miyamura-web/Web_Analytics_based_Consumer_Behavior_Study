@@ -1,4 +1,4 @@
-# Analyzing Consumer Behavior through Web Analytics (In Process)
+# Analyzing Consumer Behavior through Web Analytics
 
 ## 📊 Project Overview :
 In the era of digital commerce, understanding consumer behavior is critical for optimizing user experience and driving sales. This project focuses on analyzing consumer interactions with the Myntra e-commerce platform using Web Analytics Data combined with Sentiment Analysis on product-related consumer feedback.
@@ -60,5 +60,5 @@ Each review was scored for:
 - **Compound Score** (overall sentiment)
   
 <img width="696" height="218" alt="Sentiment Score" src="https://github.com/user-attachments/assets/6a67e49f-c2ed-418d-9779-8779df021a15" />
-[ A small Preview of the whole analysis ] 
+<br> [ A small Preview of the whole analysis ] 
 
