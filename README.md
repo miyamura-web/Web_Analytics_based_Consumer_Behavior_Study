@@ -13,7 +13,7 @@ The project involves two main components:
 An interactive Power BI dashboard visualizes key insights, making it easy to track consumer engagement patterns, identify bottlenecks in the user journey, and highlight sentiment trends. The project helps businesses like Myntra make data-driven decisions to enhance user engagement, improve product offerings, and ultimately increase conversion rates.
 
 ---
-### 🎯 Objectives 
+## 🎯 Objectives :
 - Analyze user behavior across different age groups.
 - Study the relationship between pages visited, session duration, and conversion rates.
 - Visualize traffic sources and their impact on user engagement.
@@ -21,12 +21,12 @@ An interactive Power BI dashboard visualizes key insights, making it easy to tra
 - Explore consumer personality patterns based on web analytics.
 
 ---
-### ⚙️Tools Used :
+### ⚙️Tools Used -
 - **Power BI** – For interactive dashboard visualization.
 - **Python** – For Sentiment Analysis and also for data pre-processing and cleaning before importing into Power BI.
 ---
 
-### 📁 Project Structure :
+## 📁 Project Structure :
 
 ```
 ├── data/
@@ -39,7 +39,7 @@ An interactive Power BI dashboard visualizes key insights, making it easy to tra
 ├── README.md
 ```
 
-### 📊 Dashboard Highlights :
+## 📊 Dashboard Highlights :
 
 - Total Pages Visited
 - Average Session Duration
@@ -53,12 +53,12 @@ An interactive Power BI dashboard visualizes key insights, making it easy to tra
 
 ---
 
-### 📊 Sentiment Analysis Summary :
+## 📊 Sentiment Analysis Summary :
 I analyzed product-related consumer feedback using sentiment analysis libraries like **VADER SentimentIntensityAnalyzer**.  
 Each review was scored for:  
 - **Negative Sentiment Score**   - Could indicate high neuroticism: sensitive, critical, easily dissatisfied.
-- **Neutral Sentiment Score**     - Could indicate conscientiousness or openness: appreciates product details, tries it carefully, gives thoughtful feedback.
-- **Positive Sentiment Score**     - Likely an extroverted or agreeable consumer: expressive, enthusiastic, shares positive experiences.
+- **Neutral Sentiment Score**    - Could indicate conscientiousness or openness: appreciates product details, tries it carefully, gives thoughtful feedback.
+- **Positive Sentiment Score**   - Likely an extroverted or agreeable consumer: expressive, enthusiastic, shares positive experiences.
 - **Compound Score** (overall sentiment)
   
 <img width="696" height="218" alt="Sentiment Score" src="https://github.com/user-attachments/assets/6a67e49f-c2ed-418d-9779-8779df021a15" />
@@ -66,11 +66,13 @@ Each review was scored for:
 
 ---
 
-### 📊 Insights Gained :
+## 📊 Insights Gained :
 
 - Highest conversion observed in the 25-34 age group.
+- For every 100 customers who visited website 1 buy the product.
 - Organic Search is the top traffic source.
 - Product Page and Homepage have the highest bounce rates.
+- Conversion rate is highest when customer visited 3 to 4 pages.
 - Sentiment analysis helps identify customer satisfaction trends per product.
 - Correlation between positive sentiment scores and higher conversions observed for popular products.
 
