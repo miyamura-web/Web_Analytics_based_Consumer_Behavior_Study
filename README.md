@@ -59,6 +59,5 @@ Each review was scored for:
 - **Positive Sentiment Score**  
 - **Compound Score** (overall sentiment)
   
-<img width="788" height="737" alt="Sentiment Score" src="https://github.com/user-attachments/assets/3f50cc63-1006-4b2d-a3b9-4b4864bc8f2e" />
+<img width="696" height="218" alt="Sentiment Score" src="https://github.com/user-attachments/assets/6a67e49f-c2ed-418d-9779-8779df021a15" />
 
-  
