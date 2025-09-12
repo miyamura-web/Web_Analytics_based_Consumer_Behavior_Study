@@ -51,6 +51,8 @@ An interactive Power BI dashboard visualizes key insights, making it easy to tra
   
 <img width="1308" height="739" alt="Dashboard" src="https://github.com/user-attachments/assets/e1a1f6a6-307e-425a-805e-d04c62a482b2" />
 
+---
+
 ### 📊 Sentiment Analysis Summary :
 I analyzed product-related consumer feedback using sentiment analysis libraries like **VADER SentimentIntensityAnalyzer**.  
 Each review was scored for:  
@@ -61,4 +63,8 @@ Each review was scored for:
   
 <img width="696" height="218" alt="Sentiment Score" src="https://github.com/user-attachments/assets/6a67e49f-c2ed-418d-9779-8779df021a15" />
 <br> [ A small Preview of the whole analysis ] 
+
+---
+
+
 
