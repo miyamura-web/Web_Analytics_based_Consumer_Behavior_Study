@@ -26,7 +26,7 @@ An interactive Power BI dashboard visualizes key insights, making it easy to tra
 - **Python (Optional)** – For Sentiment Analysis and also for data pre-processing and cleaning before importing into Power BI.
 ---
 
-### 📁 Project Structure
+### 📁 Project Structure :
 
 ```
 ├── data/
@@ -39,3 +39,14 @@ An interactive Power BI dashboard visualizes key insights, making it easy to tra
 ├── README.md
 ```
 
+### 📊 Dashboard Highlights :
+
+- Total Pages Visited
+- Average Session Duration
+- Total Conversion Count
+- Conversion by Age Group
+- Conversion vs. Pages Visited
+- Traffic Source Distribution
+- Bounce Rate by Landing Page
+  
+<img width="1308" height="739" alt="Dashboard" src="https://github.com/user-attachments/assets/e1a1f6a6-307e-425a-805e-d04c62a482b2" />
