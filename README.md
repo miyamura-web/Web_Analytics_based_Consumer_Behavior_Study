@@ -54,10 +54,11 @@ An interactive Power BI dashboard visualizes key insights, making it easy to tra
 ### 📊 Sentiment Analysis Summary :
 I analyzed product-related consumer feedback using sentiment analysis libraries like **VADER SentimentIntensityAnalyzer**.  
 Each review was scored for:  
-- **Negative Sentiment Score**  
-- **Neutral Sentiment Score**  
-- **Positive Sentiment Score**  
+- **Negative Sentiment Score**   - Could indicate high neuroticism: sensitive, critical, easily dissatisfied.
+- **Neutral Sentiment Score**     - Could indicate conscientiousness or openness: appreciates product details, tries it carefully, gives thoughtful feedback.
+- **Positive Sentiment Score**     - Likely an extroverted or agreeable consumer: expressive, enthusiastic, shares positive experiences.
 - **Compound Score** (overall sentiment)
   
 <img width="696" height="218" alt="Sentiment Score" src="https://github.com/user-attachments/assets/6a67e49f-c2ed-418d-9779-8779df021a15" />
+[ A small Preview of the whole analysis ] 
 
