@@ -69,11 +69,19 @@ Each review was scored for:
 ## 📊 Insights Gained :
 
 - Highest conversion observed in the 25-34 age group.
-- For every 100 customers who visited website 1 buy the product.
+- This suggests targeting marketing campaigns toward the 25–34 age group may yield the best ROI.
+- For every 100 customers who visited website 1 actually buy the product.
 - Organic Search is the top traffic source.
 - Product Page and Homepage have the highest bounce rates.
 - Conversion rate is highest when customer visited 3 to 4 pages.
+- Average session duration is 175.73 seconds (~3 minutes), which reflects a healthy level of user engagement.
 - Sentiment analysis helps identify customer satisfaction trends per product.
-- Correlation between positive sentiment scores and higher conversions observed for popular products.
+- Correlating sentiment scores with conversion rates can reveal if negative sentiment hinders purchases, offering guidance for product improvement or marketing adjustments.
+- Pages like Cart and Pricing have lower bounces, indicating customers proceed further into the purchasing process when they reach these pages.
+
+---
+
+## ► Conclusion :
+
 
 
