@@ -23,7 +23,7 @@ An interactive Power BI dashboard visualizes key insights, making it easy to tra
 ---
 ### ⚙️Tools Used :
 - **Power BI** – For interactive dashboard visualization.
-- **Python (Optional)** – For Sentiment Analysis and also for data pre-processing and cleaning before importing into Power BI.
+- **Python** – For Sentiment Analysis and also for data pre-processing and cleaning before importing into Power BI.
 ---
 
 ### 📁 Project Structure :
@@ -50,3 +50,15 @@ An interactive Power BI dashboard visualizes key insights, making it easy to tra
 - Bounce Rate by Landing Page
   
 <img width="1308" height="739" alt="Dashboard" src="https://github.com/user-attachments/assets/e1a1f6a6-307e-425a-805e-d04c62a482b2" />
+
+### 📊 Sentiment Analysis Summary :
+I analyzed product-related consumer feedback using sentiment analysis libraries like **VADER SentimentIntensityAnalyzer**.  
+Each review was scored for:  
+- **Negative Sentiment Score**  
+- **Neutral Sentiment Score**  
+- **Positive Sentiment Score**  
+- **Compound Score** (overall sentiment)
+  
+<img width="788" height="737" alt="Sentiment Score" src="https://github.com/user-attachments/assets/3f50cc63-1006-4b2d-a3b9-4b4864bc8f2e" />
+
+  
