@@ -66,5 +66,12 @@ Each review was scored for:
 
 ---
 
+### 📊 Insights Gained :
+
+- Highest conversion observed in the 25-34 age group.
+- Organic Search is the top traffic source.
+- Product Page and Homepage have the highest bounce rates.
+- Sentiment analysis helps identify customer satisfaction trends per product.
+- Correlation between positive sentiment scores and higher conversions observed for popular products.
 
 
