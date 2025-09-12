@@ -35,7 +35,7 @@ An interactive Power BI dashboard visualizes key insights, making it easy to tra
 ├── dashboard/
 │   └── Web_Analytics_Dashboard.pbix  # Power BI Dashboard file
 ├── pythoon file/
-│   └── Sentiment_Analysis.ipynb  # Sentiment analysis using python file
+│   └── Analysis.py  # Sentiment analysis using python file
 ├── README.md
 ```
 
