@@ -82,7 +82,7 @@ Each review was scored for:
 ---
 
 ## ► Conclusion :
-In short, motivation tells us why consumers act, personality tells us how they act, and technology helps businesses turn this knowledge into smarter strategies. <br>
+In short, motivation tells us why consumers act, personality tells us how they act, and technology helps businesses turn this knowledge into smarter strategies.
 Overall, the integrated dashboard enables data-driven decision-making to optimize user experience, enhance product offerings, and increase conversions, contributing to the long-term growth of the platform.
 This analysis empowers Myntra to focus on targeted improvements and strategic marketing efforts, driving a more satisfying customer journey and business success.
 
