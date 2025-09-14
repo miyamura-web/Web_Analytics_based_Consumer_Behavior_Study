@@ -82,6 +82,8 @@ Each review was scored for:
 ---
 
 ## ► Conclusion :
+In short, motivation tells us why consumers act, personality tells us how they act, and technology helps businesses turn this knowledge into smarter strategies.
+
 
 
 
